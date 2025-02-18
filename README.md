@@ -1,10 +1,10 @@
-<h1 align="center">SMART-PARKING-SYSTEM   🚗</h1>
+<h1 align="center">Parking System  🚗</h1>
 <br>
 <p align="center">
   <a href="https://github.com/abhishekapk/SMART-PARKING-SYSTEM">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfaTiGrhKrZ__y70ByRq6I8cSW2m8EMRTGhlCGGP0KpXQQde5R&usqp=CAU" alt="Logo" width="auto" height="auto">
   </a></p>
-<br>
+<br> 
 <h2>📕 ABSTRACT</h2>
 <p align="justify">Computerized systems being an integral part of the current era, an automated parking system is one of its most commonly used applications.  The aim of this model is to build up and implement an automatic parking system that will detect the parking space with the help of image processing technique of the parking lot as well as reduce the human power. The smart parking system will able to have fewer interaction of humans. In additions to that, it has parking guidance system that can demonstrate and guide user towards a parking space. With the problems of ever increasing urban traffic congestion and the ever increasing shortage of space, the parking lots need to be well-equipped with parking space detection. The proposed system helps in counting the number of parked vehicles and, identifying the number of spots available. The system detects cars through images instead of electronic sensors embedded on the floors. A camera is installed at a high and fixed position in the parking lot. An image of empty parking lot is taken as reference and then image of parking lot with cars is taken. Both the images are subtracted to find the numbers of parking slots available.
 <br>

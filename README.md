@@ -1,4 +1,4 @@
-<h1 align="center">SMART-PARKING-SYSTEM   🚗</h1>
+<h1 align="center">PARKING-SYSTEM   🚗</h1>
 <br>
 <p align="center">
   <a href="https://github.com/abhishekapk/SMART-PARKING-SYSTEM">

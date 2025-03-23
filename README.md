@@ -35,7 +35,7 @@ The image data is then supplied to the pytorch using yolo software for further p
 <h4>3) Thresholding of Image</h4>
 <p align="justify">The RGB image acquired is then converted to gray-scale image and then binary image is created in the Image segmentation module. The equation used for the conversion to gray-scale image is <br>
 Gray= 0.229R+0.587G+0.11B<br>
-The gray scale image of the parking space with cars. From the resulting gray-scale image, binary image is obtained using thresholding technique. The binary image contains all the information about the position and shape of interest. The threshold level is set in such a way that the objects of interest are made into white and the rest of the image black.
+The gray scale image of the parking space with cars. From the resulting gray-scale image, binary image is obtained using thresholding technique. The threshold level is set in such a way that the objects of interest are made into white and the rest of the image black.
 </p>
 <br>
 <h4>4) Image Enhancement </h4>

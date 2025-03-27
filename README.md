@@ -29,7 +29,7 @@
 <h4>2) Image Acquisition</h4>
 <p align="justify"><img src="https://raw.githubusercontent.com/abhishekapk/SMART-PARKING-SYSTEM/master/Images/image3.jpg" alt="Parking Image" width="250px" height="100px" align="right">In this step, the picture of parking space containing cars is taken with the help of a high-definition camera. <br>
 The image frame containing six lane image is divided lane-wise.<br>
-The image data is then supplied to the pytorch using yolo software for further processing.
+The Image Data is then supplied to the pytorch using YOLO software for further processing.
 </p>
 <br>
 <h4>3) Thresholding of Image</h4>
